@@ -1,0 +1,9 @@
+{
+  "name": "Git Name",
+  "email": "git.name@example.com",
+  "repositories": [{
+    "git": "git@github.com:gitname/repository.git",
+    "directory": "attribute",
+    "testCommand": "dalek"
+  }]
+}

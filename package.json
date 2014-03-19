@@ -1,0 +1,45 @@
+{
+  "name": "nag-builder",
+  "version": "0.0.1",
+  "description": "Nucleus Angular Build Tool.",
+  "bugs": {
+    "url": "http://github.com/nucleus-angular/nag-builder/issues"
+  },
+  "contributors": [
+    {
+      "name": "Ryan Zec",
+      "email": "code@ryanzec.com"
+    }
+  ],
+  "engines": {
+    "node": ">=0.10.24"
+  },
+  "keywords": [
+    "nucleus-angular"
+  ],
+  "main": "./lib/index.js",
+  "bin": {
+    "nag-builder": "./lib/index.js"
+  },
+  "dependencies": {
+    "execSync": "1.0.1-pre",
+    "mkdirp": "0.3.4",
+    "rimraf": "2.0.2",
+    "lodash": "2.4.1",
+    "commander": "2.1.0",
+    "string-format-js": "0.1.1"
+  },
+  "devDependencies": {
+  },
+  "preferGlobal": "true",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/nucleus-angular/nag-builder/blob/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/nucleus-angular/nag-builder.git"
+  }
+}
