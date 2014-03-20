@@ -28,7 +28,8 @@
     "lodash": "2.4.1",
     "commander": "2.1.0",
     "string-format-js": "0.1.1",
-    "waitpid": "0.1.1"
+    "waitpid": "0.1.1",
+    "colors": "0.6.0-1"
   },
   "devDependencies": {
   },
